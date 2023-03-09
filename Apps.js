@@ -8,7 +8,7 @@
 
 import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
-import RootStack from './src/screen/RootStack';
+import RootStack from './src/screens/RootStack';
 
 
 const Apps = () => {

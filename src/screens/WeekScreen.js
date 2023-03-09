@@ -7,7 +7,7 @@ function WeekScreen(){
 
     return (
         <View>
-            <ChartView />
+            {/* <ChartView /> */}
             <WriteButton />
         </View>
     )
